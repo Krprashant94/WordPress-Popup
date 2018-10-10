@@ -15,7 +15,7 @@ A Discription Table for writing regural expression
 ^[1-9](0-9)[0-9][0-9][0-9][0-9][0-9]$
 
 
-# Some usefill experssion
+# Some usefull experssion
 ```jsvascript
 Valid Indian Mobile Number     = ^((\+){0,1}91(\s){0,1}(\-){0,1}(\s){0,1}){0,1}\[0-9\]\[0-9\](\s){0,1}(\-){0,1}(\s){0,1}[1-9]{1}[0-9]{7}$
 Valid Mail ID1                 = ^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$
