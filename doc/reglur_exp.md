@@ -15,7 +15,7 @@ A Discription Table for writing regural expression
 # Some usefill experssion
 |Use   |Expression   |
 |---|---|
-|Valid Indian Mobile Number   |^((\+){0,1}91(\s){0,1}(\-){0,1}(\s){0,1}){0,1}[0-9][0-9](\s){0,1}(\-){0,1}(\s){0,1}[1-9]{1}[0-9]{7}$   |
+|Valid Indian Mobile Number   |^((\+){0,1}91(\s){0,1}(\-){0,1}(\s){0,1}){0,1}\[0-9\]\[0-9\](\s){0,1}(\-){0,1}(\s){0,1}[1-9]{1}[0-9]{7}$   |
 |Valid Mail ID   |^(.\*)@(.*)\\.(.*)$   |
 |Valid URL   |^(http\|https\|ftp)\:\/\/[a-zA-Z0-9\-\.]+\.[a-zA-Z]{2,3}(:[a-zA-Z0-9]*)?\/?([a-zA-Z0-9\-\._\?\,\'\/\\\+&amp;%\$#\=~])*$   |
 |Numbers only   |^\d*$   |
