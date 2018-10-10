@@ -12,8 +12,6 @@ A Discription Table for writing regural expression
 |\[abc\]  	|kodak, cat  	|A input containing either charecter **a** or **b** or **c**  	| [0-9], [a-z], [A-Z],[0-9a-zA-Z],[pqr]	|
 |(abc)  	|abc Inc  	|A input containing exectly charecter **abc**  	| (gmail.com), (good)	|
 
-^[1-9](0-9)[0-9][0-9][0-9][0-9][0-9]$
-
 
 # Some usefull experssion
 ```jsvascript
